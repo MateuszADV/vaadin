@@ -29,7 +29,7 @@ public class MyUi extends UI {
         GridLayout gridLayout= new GridLayout();
 
         rejestracja();
-
+/*
         Window okno = new Window();
         okno.setHeight("200px");
         okno.setWidth("400px");
@@ -38,6 +38,7 @@ public class MyUi extends UI {
         okno.setPositionY(50);
 
         UI.getCurrent().addWindow(okno);
+        */
 
         setContent(layout);
 
